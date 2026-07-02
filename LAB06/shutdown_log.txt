@@ -1,0 +1,3 @@
+[18:05:00] shutdown
+[18:05:12] shutdown
+Shutdown count: 2
